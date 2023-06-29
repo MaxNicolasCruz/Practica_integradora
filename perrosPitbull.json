@@ -6,6 +6,7 @@
         "nombre":"Greco"
     },
     {
-        "nombre": "Homero"
+        "nombre": "Homero",
+        "Edad": 6
     }
 ]
