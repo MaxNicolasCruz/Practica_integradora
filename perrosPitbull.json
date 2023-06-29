@@ -3,7 +3,9 @@
         "nombre":"Barto"
     },
     {
-        "nombre":"Greco",
-        "edad":8
+        "nombre":"Greco"
+    },
+    {
+        "nombre": "Homero"
     }
 ]
