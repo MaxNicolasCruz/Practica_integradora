@@ -3,6 +3,7 @@
         "nombre":"Barto"
     },
     {
-        "nombre":"Greco"
+        "nombre":"Greco",
+        "edad":8
     }
 ]
